@@ -1,3 +1,4 @@
+![logo](https://github.com/theaadycode/theaadycode/blob/main/git%20hub%20banner.png)
 <h1 align="center">Hi 👋, I'm LAKSHYA THAKUR</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
