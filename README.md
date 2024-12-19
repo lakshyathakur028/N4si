@@ -1,4 +1,4 @@
-![logo](https://github.com/theaadycode/theaadycode/blob/main/git%20hub%20banner.png)
+![logo]([(https://github.com/lakshyathakur028/lakshyathakur028/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png))]
 <h1 align="center">Hi 👋, I'm LAKSHYA THAKUR</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
